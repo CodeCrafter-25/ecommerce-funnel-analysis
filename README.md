@@ -88,6 +88,17 @@ A sample dataset is provided for demonstration purposes.
 
 --- 
 
+## Dashboard 
+
+An interactive Tableau dashboard was created to visualize funnel performance and highlight user drop-off points. 
+
+**Dashboard Preview**: 
+![Dashboard Preview](images/dashboard.png) 
+
+**Interactive version:** https://public.tableau.com/shared/8NGS4XKX7?:display_count=n&:origin=viz_share_link 
+
+--- 
+
 ## SQL Analysis 
 
 SQL queries were used to extract user activity events and calculate the number of users at each stage of the funnel. 
@@ -129,17 +140,6 @@ event_data AS (
 
 --- 
 
-## Dashboard 
-
-An interactive Tableau dashboard was created to visualize funnel performance and highlight user drop-off points. 
-
-**Dashboard Preview**: 
-![Dashboard Preview](images/dashboard.png) 
-
-**Interactive version:** https://public.tableau.com/shared/8NGS4XKX7?:display_count=n&:origin=viz_share_link 
-
---- 
-
 ## Funnel Metrics 
 
 **Key metrics analyzed in this project:** 
@@ -163,6 +163,18 @@ Overall Visit: 354 857 → Purchase conversion rate: 1,34 % (that is 4 745 purch
 - Some traffic sources generate high traffic but lower conversion rates;
 - Mobile users may experience higher friction during checkout;
 - Identifying bottlenecks in the funnel can help improve overall sales performance.
+
+--- 
+
+## Analytical Approach
+
+**The analysis followed these steps:**
+
+1. Extracted user activity data using SQL.
+2. Identified key funnel stages in the user journey.
+3. Calculated the number of users at each stage.
+4. Measured conversion rates between stages.
+5. Visualized the results using Tableau.
 
 --- 
 
@@ -215,9 +227,9 @@ ecommerce-funnel-analysis
 ## Author 
 
 **Roman Yanchuk** 
-
 Aspiring Data Analyst 
 
 **Tools:** SQL | Tableau | Excel | BigQuery
 
+**LinkedIn:** https://www.linkedin.com/in/roman-ianchuk-a710b9169/
 **GitHub:** https://github.com/CodeCrafter-25
