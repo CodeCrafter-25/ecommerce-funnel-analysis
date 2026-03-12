@@ -71,6 +71,9 @@ Tracking these stages helps evaluate user behavior and identify opportunities to
 
 Each event represents a step in the user journey through the sales funnel. 
 
+Due to size limitations, the full dataset is not included in the repository.
+A sample dataset is provided for demonstration purposes.
+
 **Dataset file:** 
 [data/general_request_sample.csv](data/general_request_sample.csv)
 
