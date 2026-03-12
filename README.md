@@ -72,7 +72,7 @@ Tracking these stages helps evaluate user behavior and identify opportunities to
 Each event represents a step in the user journey through the sales funnel. 
 
 **Dataset file:** 
-[data/general_request3.csv](data/general_request3.csv)
+[data/general_request_sample.csv](data/general_request_sample.csv)
 
 ---
 
@@ -84,6 +84,7 @@ Each event represents a step in the user journey through the sales funnel.
 - **GitHub** – project documentation and version control.
 
 --- 
+
 ## SQL Analysis 
 
 SQL queries were used to extract user activity events and calculate the number of users at each stage of the funnel. 
