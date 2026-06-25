@@ -233,9 +233,3 @@ Aspiring Data Analyst
 
 **LinkedIn:** https://www.linkedin.com/in/roman-ianchuk-a710b9169/
 **GitHub:** https://github.com/CodeCrafter-25
-
-
-Added a dual-axis Tableau chart showing New MRR as bars and New Paid Users as a line. Updated README with chart description and dashboard progress.
-
-images/new_mrr_new_paid_users.png
-README.md
